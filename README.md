@@ -3,3 +3,5 @@
 This repository exists only to examine different merge situations.
 
 Make some change
+
+Change some more
